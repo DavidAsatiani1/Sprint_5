@@ -1,6 +1,5 @@
 from data import Data, Url
 from locators import Locators
-from conftest import driver
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
